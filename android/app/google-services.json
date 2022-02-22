@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "499189223668",
+    "project_id": "brandz-n",
+    "storage_bucket": "brandz-n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499189223668:android:0984039748361a95c94ea1",
+        "android_client_info": {
+          "package_name": "com.example.brandzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499189223668-6l6a5cc11dev9aav6b2kdcjrfivofpgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsUIcPXq7i2Evwv49OPrQViK-wCFH2_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499189223668-6l6a5cc11dev9aav6b2kdcjrfivofpgi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499189223668-j9h7lmga7kgmr8gkvkt851b11qhm38tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brandzapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
